@@ -28,3 +28,4 @@ p "la crypto qui a la plus petite valeur est : #{my_hash.key(min)}"
 	
 p (a.grep(/coin/im)).count
 	
+my_hash.match
